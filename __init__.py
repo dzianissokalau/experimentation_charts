@@ -1,1 +1,1 @@
-from .experimentation_charts import experimentation_charts
+from .experimentation_charts import plot_cvr_distributions
